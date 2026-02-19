@@ -6,37 +6,37 @@ const Skills = () => {
             <div
               className="flex flex-col items-center gap-2 border-2 border-transparent hover:border-green-700 p-2 cursor-pointer rounded-2xl"
             >
-              <img src="../assets/html5 logo.svg" className="w-12 h-12" />
+              <img src="/assets/html5 logo.svg" className="w-12 h-12" />
               <p className="text-sm font-medium">HTML5</p>
             </div>
             <div
               className="flex flex-col items-center gap-2 border-2 border-transparent hover:border-green-700 p-2 cursor-pointer rounded-2xl"
             >
-              <img src="../assets/css logo.svg" className="w-12 h-12" />
+              <img src="/assets/css logo.svg" className="w-12 h-12" />
               <p className="text-sm font-medium">CSS3</p>
             </div>
             <div
               className="flex flex-col items-center gap-2 border-2 border-transparent hover:border-green-700 p-2 cursor-pointer rounded-2xl"
             >
-              <img src="../assets/tailwind css.svg" className="w-12 h-12" />
+              <img src="/assets/tailwind css.svg" className="w-12 h-12" />
               <p className="text-sm font-medium">Tailwind CSS</p>
             </div>
             <div
               className="bg-gray-100 flex flex-col items-center gap-2 border-2 border-transparent hover:border-green-700 p-2 cursor-pointer rounded-2xl"
             >
-              <img src="../assets/bootstrap-logo.png" className="w-12 h-12" />
+              <img src="/assets/bootstrap-logo.png" className="w-12 h-12" />
               <p className="text-sm font-medium">Bootstrap</p>
             </div>
             <div
               className="flex flex-col items-center gap-2 border-2 border-transparent hover:border-green-700 p-2 cursor-pointer rounded-2xl"
             >
-              <img src="../assets/figma.png" className="w-12 h-12" />
+              <img src="/assets/figma.png" className="w-12 h-12" />
               <p className="text-sm font-medium">Figma</p>
             </div>
             <div
               className="flex flex-col items-center gap-2 border-2 border-transparent hover:border-green-700 p-2 cursor-pointer rounded-2xl"
             >
-              <img src="../assets/git logo.png" className="w-12 h-12" />
+              <img src="/assets/git logo.png" className="w-12 h-12" />
               <p className="text-sm font-medium">Git</p>
             </div>
           </div>

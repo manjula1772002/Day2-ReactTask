@@ -10,7 +10,7 @@ function App() {
       <section className="flex mx-20px items-center gap-5 pt-7.5">
         <div>
           <img
-            src="../assets/profile.jpg"
+            src="/assets/profile.jpg"
             alt="profile"
             className="w-[380px] ml-4 rounded-full outline outline-2 outline-green-600"
           />

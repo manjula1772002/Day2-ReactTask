@@ -1,3 +1,5 @@
+import gitLogo from "/assets/git logo.png"
+
 const Footer = () => {
     return(
         <footer className="pt-3 mt-4 border-t-2 items-center">
@@ -23,7 +25,7 @@ const Footer = () => {
             href="https://github.com/manjula1772002"
             className="inline-flex items-center justify-center w-8 h-8 rounded-full border  border-green-800 hover:bg-gray-200 duration-200 hover:ring-1 cursor-pointer hover:-translate-y-2"
           >
-            <img src="/assets/git logo.png" alt="GitHub" className="w-5 h-5" />
+            <img src={gitLogo} alt="GitHub" className="w-5 h-5" />
           </a>
         </div>
         <div className="flex justify-center gap-2">
